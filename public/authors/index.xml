@@ -12,38 +12,29 @@
     
     
     <item>
-      <title>Brad Tiller</title>
-      <link>https://example.com/authors/brad-tiller/</link>
+      <title>Laurence Andrews</title>
+      <link>https://example.com/authors/laurence-andrews/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/authors/brad-tiller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dennis Brotzky</title>
-      <link>https://example.com/authors/dennis-brotzky/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/authors/dennis-brotzky/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mack Mansouri</title>
-      <link>https://example.com/authors/mack-mansouri/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/authors/mack-mansouri/</guid>
+      <guid>https://example.com/authors/laurence-andrews/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thiago Costa</title>
       <link>https://example.com/authors/thiago-costa/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/authors/thiago-costa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dennis Brotzky</title>
+      <link>https://example.com/authors/dennis-brotzky/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/authors/dennis-brotzky/</guid>
       <description></description>
     </item>
     
