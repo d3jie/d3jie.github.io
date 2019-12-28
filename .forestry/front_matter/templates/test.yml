@@ -1,0 +1,9 @@
+---
+label: test
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+pages:
+- content/test.md
