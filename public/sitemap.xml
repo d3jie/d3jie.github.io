@@ -4,22 +4,27 @@
   
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/authors/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/authors/laurence-andrews/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/post/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/2019-07-08-leg-4/</loc>
+    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>

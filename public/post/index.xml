@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Hugo Novela</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Train to Turkey - Leg 4</title>
+      <link>https://example.com/post/2019-07-08-leg-4/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2019-07-08-leg-4/</guid>
+      <description>Day 3 was set to be a warm up for what was to come, long days spent on trains doing nothing but relaxing and looking out the window. We started the day getting up early and leaving the Ibis, it has served us well, but we couldn’t wait to leave. The walk to Messe/Deutz station was quiet, nobody was really awake, clearly everyone had a late night partying in the streets.</description>
+    </item>
     
     <item>
       <title>Understanding the Gatsby lifecycle with Narative</title>
