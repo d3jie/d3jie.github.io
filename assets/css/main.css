@@ -83,7 +83,7 @@ hr {
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 615px;
+  width: 720px;
 }
 
 /*48em*/
@@ -115,7 +115,7 @@ hr {
   color: #787878;
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
-  font-variant-caps: all-petite-caps;
+  letter-spacing: 0.06em;
 }
 
 .masthead-subtitle {
@@ -239,6 +239,7 @@ hr {
 .menu {
   padding-top: 0.5rem;
   display: block;
+  font-variant: all-petite-caps;
 }
 
 .menu-content {
