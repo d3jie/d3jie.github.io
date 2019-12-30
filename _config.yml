@@ -17,11 +17,12 @@ paginate:            5
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-redirect-from]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Laurence Andrews'
 description:	       'MY CORNER OF THE NET'
+short-description:   'my corner of the net'
 author:              'Laurence Andrews'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines

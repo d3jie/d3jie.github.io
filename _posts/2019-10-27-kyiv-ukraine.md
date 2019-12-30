@@ -5,6 +5,8 @@ date:   2019-10-27
 categories: blog travel
 tags: kyiv kiev ukraine traintoturkey
 image: kyiv1.jpg
+redirect_from:
+  - /blog/kyiv-ukraine
 ---
 
 Kyiv wasn’t on the itinerary for the #TrainToTurkey because there are unfortunately no trains across the Black Sea. Or ferries either, for that matter. Thankfully economics were in our favour and we were able to make a literal flying visit. 
