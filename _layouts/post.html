@@ -23,6 +23,14 @@ layout: default
     {{ site.author }}
   {% endif %}
 </span>
+<div>
+<span class="tags">
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}">{{ tag_name }},</a>
+  {% endfor %}
+</span>
+</div>
 
 {% if page.image %}
   <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
