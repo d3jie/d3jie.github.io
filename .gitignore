@@ -4,6 +4,8 @@ Gemfile.lock
 .sass-cache
 .jekyll-metadata
 .jekyll-cache/
+.jekyll-cache
+.jekyll-cache/Jekyll/Cache
 .DS_Store
 *.DS_Store
 .AppleDouble
