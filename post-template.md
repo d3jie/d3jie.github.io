@@ -1,7 +1,9 @@
 ---
-layout: post
+
 title:  ""
 date:   2019-10-27
+
+layout: post
 categories: blog
 tags:
 image: import/photo-1.jpg
@@ -9,7 +11,7 @@ redirect_from:
   - /blog/
 ---
 
-
+![][photo-1]
 ![][photo-2]
 ![][photo-3]
 ![][photo-4]
@@ -38,3 +40,18 @@ redirect_from:
 [photo-12]: /assets/img/photo-12.jpg
 [photo-13]: /assets/img/photo-13.jpg
 [photo-14]: /assets/img/photo-14.jpg
+
+[photo-1]: /assets/img/import/photo-1.jpg
+[photo-2]: /assets/img/import/photo-2.jpg
+[photo-3]: /assets/img/import/photo-3.jpg
+[photo-4]: /assets/img/import/photo-4.jpg
+[photo-5]: /assets/img/import/photo-5.jpg
+[photo-6]: /assets/img/import/photo-6.jpg
+[photo-7]: /assets/img/import/photo-7.jpg
+[photo-8]: /assets/img/import/photo-8.jpg
+[photo-9]: /assets/img/import/photo-9.jpg
+[photo-10]: /assets/img/import/photo-10.jpg
+[photo-11]: /assets/img/import/photo-11.jpg
+[photo-12]: /assets/img/import/photo-12.jpg
+[photo-13]: /assets/img/import/photo-13.jpg
+[photo-14]: /assets/img/import/photo-14.jpg
