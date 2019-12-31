@@ -4,7 +4,7 @@ title:  ""
 date:   2019-10-27
 categories: blog
 tags:
-image: photo-1.jpg
+image: import/photo-1.jpg
 redirect_from:
   - /blog/
 ---
