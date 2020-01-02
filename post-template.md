@@ -11,6 +11,9 @@ redirect_from:
   - /blog/
 ---
 
+[link text][1]
+[1]: http://linkurl
+
 ![][photo-1]
 ![][photo-2]
 ![][photo-3]
