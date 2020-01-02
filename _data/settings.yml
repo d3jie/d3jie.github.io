@@ -9,8 +9,8 @@ google-ID: ''
 menu:
 - {name: 'Countries', path: 'menu', url: 'countries.html'}
 - {name: 'Archive', path: 'menu', url: 'archive.html'}
-- {name: 'Rail Map', path: 'menu', url: 'rail-map.html'}
-- {name: 'The List', path: 'menu', url: 'the-list.html'}
+- {name: 'Rail Map', path: 'menu', url: 'railmap.html'}
+- {name: 'The List', path: 'menu', url: 'thelist.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
