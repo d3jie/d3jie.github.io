@@ -14,7 +14,7 @@ Never took myself as somebody who would enjoy horse racing, not particularly sur
 
 The journey to Ascot via train was a new route for me, as is much of the South West Trains network, of course, this was a decision factor! The train provided a great atmosphere with everyone on board in good spirits, impeccably dressed, picnics in tow and looking forward to a fun day out.
 
-![](http:///assets/img/import/09980-image-asset.jpeg)
+![](/assets/img/import/09980-image-asset.jpeg)
 
 The Ascot racecourse has a huge stand which seems to be of recent constriction, it provides absolutely spectacular views over the well-groomed course and the surrounding areas. I incredibly impressed by the customer service at the event, with everyone being polite, friendly and attentive. From the stand, we could all of the races projected on large screens with audio commentary during the event. Also visible were flights taking off from Heathrow, some nine miles away. Interestingly, the building also served as the set for Shanghai Pudong International in James Bond’s Skyfall, putting the long and prominent escalators into the film.
 
