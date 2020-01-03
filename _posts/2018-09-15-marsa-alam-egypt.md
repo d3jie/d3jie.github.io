@@ -4,7 +4,7 @@ date: 2018-09-15
 layout: post
 categories: blog
 tags: egypt diving travel scuba southern scuba
-image: import/eb7bb-img_7769.jpg
+image: /assets/img/import/eb7bb-img_7769.jpg
 redirect_from:
   - /blog/marsa-alam-egypt
 ---
