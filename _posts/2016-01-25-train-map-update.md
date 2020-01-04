@@ -4,7 +4,7 @@ date: "2016-01-25"
 layout: post
 categories: blog
 tags: trains railway blog update train map
-image: import/b72ec-img_3070.jpg
+image: /assets/img/import/b72ec-img_3070.jpg
 redirect_from:
   - /blog/train-map-update
 ---

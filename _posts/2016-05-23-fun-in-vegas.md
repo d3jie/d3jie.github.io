@@ -4,7 +4,7 @@ date: "2016-05-23"
 layout: post
 categories: blog
 tags: travel vegas gun guns fun us united states (continental) united states nevada
-image: import/06e06-image-asset.jpeg
+image: /assets/img/import/06e06-image-asset.jpeg
 redirect_from:
   - /blog/fun-in-vegas
 ---

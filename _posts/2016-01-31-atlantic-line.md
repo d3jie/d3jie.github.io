@@ -4,7 +4,7 @@ date: "2016-01-31"
 layout: post
 categories: blog
 tags: newquay railway train rail-map cornwall blog rnli england
-image: import/eeca7-image-asset.jpeg
+image: /assets/img/import/eeca7-image-asset.jpeg
 redirect_from:
   - /blog/
 ---

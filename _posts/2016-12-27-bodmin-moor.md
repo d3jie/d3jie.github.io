@@ -4,7 +4,7 @@ date: "2016-12-27"
 layout: post
 categories: blog
 tags: cornwall walk travel moor victoria stones hill pub devon history
-image: import/pe8a55-image-asset.jpeg
+image: /assets/img/import/pe8a55-image-asset.jpeg
 redirect_from:
   - /blog/bodmin-moor
 ---

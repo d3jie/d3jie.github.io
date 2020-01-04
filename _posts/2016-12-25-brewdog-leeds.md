@@ -4,7 +4,7 @@ date: "2016-12-25"
 layout: post
 categories: blog
 tags: beer brewdog leeds uk drinking review travel
-image: import/75100-image-asset.jpeg
+image: /assets/img/import/75100-image-asset.jpeg
 redirect_from:
   - /blog/mh462hw8d5wktg9yst4fktss4ljgsm
 ---

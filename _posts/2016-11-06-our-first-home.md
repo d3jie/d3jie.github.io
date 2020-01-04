@@ -4,7 +4,7 @@ date: "2016-11-06"
 layout: post
 categories: blog
 tags: upnor home house life goals
-image: import/photo-1.jpg
+image: /assets/img/import/photo-1.jpg
 redirect_from:
   - /blog/6hsb5wtz2jdr6p6yte6lyx67kkt8yd
 ---
