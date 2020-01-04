@@ -3,7 +3,7 @@ title: "Sidemount Diving"
 date: "2017-07-23"
 layout: post
 categories: blog
-tags: scuba diving southern scuba buckland maidstone padi skill uk fun thoughts
+tags: scuba diving southern-scuba buckland maidstone padi skill uk fun thoughts
 redirect_from:
   - /blog/sidemount-diving
 ---
