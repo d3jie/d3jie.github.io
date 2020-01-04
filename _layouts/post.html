@@ -48,7 +48,7 @@ layout: default
   {% include disqus.html %}
 {% endif %}
 
-let xmlHttp = new XMLHttpRequest();
-xmlHttp.open('GET', 'https://hitcounter.pythonanywhere.com/count', false);
-xmlHttp.send(null);
-count = xmlHttp.responseText;
+let targetUrl = window.location.href;
+$.ajax('https://andrewsio.pythonanywhere.com/count',{
+    data:{url: targetUrl},
+}).then(count => console.log('Count:' + count));
