@@ -22,7 +22,6 @@ layout: default
   {% else %}
     {{ site.author }}
   {% endif %}
-<img src="https://andrewsio.pythonanywhere.com/count/tag.svg" alt="Hits">
 </span>
 <div>
 <span class="tags">
@@ -48,3 +47,8 @@ layout: default
 {% if site.data.settings.disqus.comments %}
   {% include disqus.html %}
 {% endif %}
+
+let xmlHttp = new XMLHttpRequest();
+xmlHttp.open('GET', 'https://hitcounter.pythonanywhere.com/count', false);
+xmlHttp.send(null);
+count = xmlHttp.responseText;
