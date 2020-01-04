@@ -47,8 +47,3 @@ layout: default
 {% if site.data.settings.disqus.comments %}
   {% include disqus.html %}
 {% endif %}
-
-let targetUrl = window.location.href;
-$.ajax('https://andrewsio.pythonanywhere.com/count',{
-    data:{url: targetUrl},
-}).then(count => console.log('Count:' + count));
