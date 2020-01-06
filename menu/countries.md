@@ -48,7 +48,7 @@ Total: 46/327
 * 🇧🇬 [Bulgaria](/tag/bulgaria)
 * 🇭🇷 [Croatia](/tag/croatia)
 * 🇨🇿 [Czech Republic](/tag/czech-republic)
-* 🇩🇰 [Denamrk](/tag/denmark)
+* 🇩🇰 [Denmark](/tag/denmark)
 * 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [England](/tag/england)
 * 🇪🇪 [Estonia](/tag/estonia)
 * 🇫🇮 [Finland](/tag/finland)
