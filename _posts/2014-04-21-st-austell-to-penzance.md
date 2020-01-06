@@ -19,7 +19,7 @@ Penzance station is far smaller than I had imagined with only four platforms, th
 
 While in Penzance we went to a great pub called The One and All - it's situated north west of the station and is just over the road. They had [Betty Stogs](http://www.skinnersbrewery.com/beers/betty_stogs) on tap which is a very nice beer. 
 
-[penzance_station_compressed](/assets/img/import/64a97-penzance_station_compressed.jpg)
+![penzance_station_compressed](/assets/img/import/64a97-penzance_station_compressed.jpg)
 
 We caught the 1644 Penzance to Plymouth service on the way back. It was equally as busy, especially after Truro! TOPS Number 150219.
 

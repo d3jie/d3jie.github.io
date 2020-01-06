@@ -23,5 +23,5 @@ Lastly, [a trip to Ascot](/blog/tag/ascot) provided an interesting opportunity t
 
 You can find my latest rail map [here](/menu/railmap.html) with a few more green lines than the previous one.
 
-[photo-1]: /assets/img/import/photo-1.jpg
-[photo-2]: /assets/img/import/photo-2.jpg
+[photo-1]: /assets/img/import/2121e-caledonian_sleeper.jpg
+[photo-2]: /assets/img/import/53527-edinburgh.jpg

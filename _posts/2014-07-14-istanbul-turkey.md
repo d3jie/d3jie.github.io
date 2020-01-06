@@ -3,8 +3,8 @@ title: "Istanbul, Turkey"
 date: "2014-07-14"
 layout: post
 categories: blog
-tags: british-airways bucket-list emergency europe flights hard-rock-cafe istanbul kebab railway shipping tram travel turkey turkish weekend
-image: /assets/img/import/photo-1.jpg
+tags: british-airways bucket-list travel turkey istanbul
+image: /assets/img/import/9f485-img_0047.jpg
 redirect_from:
   - /blog/273
 ---

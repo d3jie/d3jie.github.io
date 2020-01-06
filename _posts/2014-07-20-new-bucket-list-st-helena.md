@@ -4,7 +4,6 @@ date: "2014-07-20"
 layout: post
 categories: blog
 tags: airport bucket-list ocean ship st-helena travel
-image: /assets/img/import/photo-1.jpg
 redirect_from:
   - /blog/294
 ---

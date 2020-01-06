@@ -3,7 +3,7 @@ title: "Bucharest, Romania"
 date: "2013-12-01"
 layout: post
 categories: blog
-tags: bucharest romania travel work
+tags: bucharest romania travel work selfie
 image: /assets/img/import/938cb-20131201_12183911.jpg
 redirect_from:
   - /blog/20
