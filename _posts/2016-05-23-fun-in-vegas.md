@@ -3,7 +3,7 @@ title: "Number 22 - Shoot a Gun"
 date: "2016-05-23"
 layout: post
 categories: blog
-tags: travel vegas gun guns fun us united states (continental) united states nevada
+tags: travel vegas guns fun usa united-states nevada
 image: /assets/img/import/06e06-image-asset.jpeg
 redirect_from:
   - /blog/fun-in-vegas
