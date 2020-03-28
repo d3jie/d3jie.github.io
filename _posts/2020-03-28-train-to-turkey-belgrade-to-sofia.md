@@ -72,23 +72,23 @@ The journey through Bulgaria to Sofia was quiet and uneventful, the train contin
 
 ![][photo-19]
 
-[photo-1]: /assets/img/import/traintoturkey-leg7-1.jpg
-[photo-2]: /assets/img/import/traintoturkey-leg7-2.jpg
-[photo-3]: /assets/img/import/traintoturkey-leg7-3.jpg
-[photo-4]: /assets/img/import/traintoturkey-leg7-4.jpg
-[photo-5]: /assets/img/import/traintoturkey-leg7-5.jpg
-[photo-6]: /assets/img/import/traintoturkey-leg7-6.jpg
-[photo-7]: /assets/img/import/traintoturkey-leg7-7.jpg
-[photo-8]: /assets/img/import/traintoturkey-leg7-8.jpg
-[photo-9]: /assets/img/import/traintoturkey-leg7-9.jpg
-[photo-10]: /assets/img/import/traintoturkey-leg7-10.jpg
-[photo-11]: /assets/img/import/traintoturkey-leg7-11.jpg
-[photo-12]: /assets/img/import/traintoturkey-leg7-12.jpg
-[photo-13]: /assets/img/import/traintoturkey-leg7-13.jpg
-[photo-14]: /assets/img/import/traintoturkey-leg7-14.jpg
-[photo-15]: /assets/img/import/traintoturkey-leg7-15.jpg
-[photo-16]: /assets/img/import/traintoturkey-leg7-16.jpg
-[photo-17]: /assets/img/import/traintoturkey-leg7-17.jpg
-[photo-18]: /assets/img/import/traintoturkey-leg7-18.jpg
-[photo-19]: /assets/img/import/traintoturkey-leg7-19.jpg
-[photo-22]: /assets/img/import/traintoturkey-leg7-22.jpg
+[photo-1]: /assets/img/traintoturkey-leg7-1.jpg
+[photo-2]: /assets/img/traintoturkey-leg7-2.jpg
+[photo-3]: /assets/img/traintoturkey-leg7-3.jpg
+[photo-4]: /assets/img/traintoturkey-leg7-4.jpg
+[photo-5]: /assets/img/traintoturkey-leg7-5.jpg
+[photo-6]: /assets/img/traintoturkey-leg7-6.jpg
+[photo-7]: /assets/img/traintoturkey-leg7-7.jpg
+[photo-8]: /assets/img/traintoturkey-leg7-8.jpg
+[photo-9]: /assets/img/traintoturkey-leg7-9.jpg
+[photo-10]: /assets/img/traintoturkey-leg7-10.jpg
+[photo-11]: /assets/img/traintoturkey-leg7-11.jpg
+[photo-12]: /assets/img/traintoturkey-leg7-12.jpg
+[photo-13]: /assets/img/traintoturkey-leg7-13.jpg
+[photo-14]: /assets/img/traintoturkey-leg7-14.jpg
+[photo-15]: /assets/img/traintoturkey-leg7-15.jpg
+[photo-16]: /assets/img/traintoturkey-leg7-16.jpg
+[photo-17]: /assets/img/traintoturkey-leg7-17.jpg
+[photo-18]: /assets/img/traintoturkey-leg7-18.jpg
+[photo-19]: /assets/img/traintoturkey-leg7-19.jpg
+[photo-22]: /assets/img/traintoturkey-leg7-22.jpg
