@@ -3,7 +3,7 @@ title: "Whitstable Regatta"
 date: "2015-08-17"
 layout: post
 categories: blog
-tags: whitstable lifeboat day holiday kent england
+tags: whitstable lifeboat day holiday kent england
 image: /assets/img/import/b48f8-whitstable_lifeboat_selfie.jpg
 redirect_from:
   - /blog/post_id-4

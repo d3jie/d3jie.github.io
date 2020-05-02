@@ -3,7 +3,7 @@ layout: post
 title: "For the Lifeboats!"
 date: 2019-07-03
 categories: blog
-tags: rnli wedding lifeboat chatham kent home 2019
+tags: rnli wedding lifeboat chatham kent home 2019 england
 image: /assets/img/for-the-lifeboats-1.jpg
 redirect_from:
   - /blog/for-the-lifeboats

@@ -3,7 +3,7 @@ title: "Gibraltar"
 date: "2015-11-22"
 layout: post
 categories: blog
-tags: travel british-airways flight holiday tigziefc gibraltar
+tags: travel british-airways flight holiday tigziefc gibraltar
 image: /assets/img/import/70a13-img_2210.jpg
 redirect_from:
   - /blog/post_id-5
