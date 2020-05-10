@@ -4,7 +4,7 @@ date:   2020-05-10
 layout: post
 categories: blog
 tags: coronavirus home 2020 england
-image: /assets/img/coronavirus2-6.jpg
+image: /assets/img/coronavirus-2-6.jpg
 ---
 
 It's been 50 days since I first posted about Coronavirus and it's fair to say that in that time, the world has changed. 50 days ago there were 289 deaths in the UK and yesterday's daily government briefing announced the total is now 31,589 - which puts our little island nation second in numbers only to the USA. Italy was at the centre of the crisis and is now barely even mentioned in the news. There have been plenty of significant events in those 50 days, an emergency hospital was built inside the Excel centre, Boris Johnson was diagnosed with the virus spending time in intensive care and the Queen made a historic and emotional televised speech to the nation.
@@ -33,10 +33,10 @@ The week after our birthday weekend we had originally planned to travel to Glasg
 
 This past weekend was the 75th anniversary of VE Day, celebrating the end of the war against Nazi Germany in Europe. We put up the Union Jack, made some bunting and had some drinks in the front garden with the neighbours. It was refreshing and demonstrated that celebrating things at home can be just as fun as going out or travelling. We got rather sozzled towards the end of the day but had a rather lovely time. I vaguely recall carving a chicken for the dog at about 10pm! Oh and yes, I know that my flag is the wrong way round (wide white top, broadside up) - too late, I'd already attached it to the frame.
 
-[photo-1]: /assets/img/coronavirus-2-1.jpg
-[photo-2]: /assets/img/coronavirus-2-2.jpg
-[photo-3]: /assets/img/coronavirus-2-3.jpg
-[photo-4]: /assets/img/coronavirus-2-4.jpg
-[photo-5]: /assets/img/coronavirus-2-5.jpg
-[photo-6]: /assets/img/coronavirus-2-6.jpg
-[photo-7]: /assets/img/coronavirus-2-7.jpg
+[coronavirus-2-1]: /assets/img/coronavirus-2-1.jpg
+[coronavirus-2-2]: /assets/img/coronavirus-2-2.jpg
+[coronavirus-2-3]: /assets/img/coronavirus-2-3.jpg
+[coronavirus-2-4]: /assets/img/coronavirus-2-4.jpg
+[coronavirus-2-5]: /assets/img/coronavirus-2-5.jpg
+[coronavirus-2-6]: /assets/img/coronavirus-2-6.jpg
+[coronavirus-2-7]: /assets/img/coronavirus-2-7.jpg
