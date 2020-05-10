@@ -93,7 +93,7 @@ Total: 46/327
 ### Asia (5/51)
 
 * 🇭🇰 [Hong Kong](/tag/hong-kong)
-* 🇲🇾 [Malaysia](blog?tag=malaysia)
+* 🇲🇾 [Malaysia](/tag/malaysia)
 * 🇸🇬 [Singapore](/tag/singapore)
 * 🇹🇭 [Thailand](/tag/thailand)
 * 🇹🇷 [Turkey in Asia (Anatolia, Ankara, Izmir)](/tag/turkey)
