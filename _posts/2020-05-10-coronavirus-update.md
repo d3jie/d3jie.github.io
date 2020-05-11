@@ -33,6 +33,8 @@ The week after our birthday weekend we had originally planned to travel to Glasg
 
 This past weekend was the 75th anniversary of VE Day, celebrating the end of the war against Nazi Germany in Europe. We put up the Union Jack, made some bunting and had some drinks in the front garden with the neighbours. It was refreshing and demonstrated that celebrating things at home can be just as fun as going out or travelling. We got rather sozzled towards the end of the day but had a rather lovely time. I vaguely recall carving a chicken for the dog at about 10pm! Oh and yes, I know that my flag is the wrong way round (wide white top, broadside up) - too late, I'd already attached it to the frame.
 
+![][coronavirus-2-6]
+
 [coronavirus-2-1]: /assets/img/coronavirus-2-1.jpg
 [coronavirus-2-2]: /assets/img/coronavirus-2-2.jpg
 [coronavirus-2-3]: /assets/img/coronavirus-2-3.jpg
