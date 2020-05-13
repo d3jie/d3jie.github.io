@@ -4,6 +4,7 @@ date:   2020-05-13
 layout: post
 categories: blog
 tags: ramblings coronavirus
+hidden: true
 ---
 
 Was having a big 'ol think the other day after I posted another Coronavirus blog. That post took me almost a day to write, edit, re-write and sort the images out for. And, well, it's just a crappy blog post, there's nothing special about it and it certainly didn't need re-writing several times. I want to write more, but whenever I try to I end up making a total cake about the content and making sure there's no grammar errors, spelling errors and all of that nonsense. I'm going to stop all of that nonsense. Nobody actually reads the stuff I post anyway, so most of the time I'm both author and audience.
