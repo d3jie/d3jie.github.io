@@ -1,0 +1,20 @@
+---
+title:  "There will be no intervals"
+date:   2020-05-14
+layout: post
+categories: blog
+tags: ramblings verdant youtube
+hidden: true
+---
+
+Great news! The £31 beer arrived today. My strategy of ordering Verdant beer bang on release time at 10:30 am on Wednesday is working out well. It arrived in less than 24 hours, which is pretty impressive by anyone's standards. It went straight into the fridge and I'm currently enjoying a cold can of 'There will be no intervals' which is a Mosaic and Simcoe Pale Ale. I think it's up there, but not my absolute fave. I love Verdant beer and the 4.5% stuff is really where it's at, the DIPAs are just too heavy. They have their place in the world but you need to be in the right mood to enjoy them.  
+
+In other beery news I heard from Iron Pier in Gravesham who a few weeks back announced that they would begin to can their beer. They planned to release four different cans with some gorgeous artwork on each can. Unfortunately they said in a [blog post](https://www.ironpier.beer/blog/2020/5/13/qakqlrnlzntlhl7jhfxn6gu8uk56cj) that one of their beers, Breezy Day didn't play too well when canning. They explained that it'd be a few weeks until it's possible for them to can that beer again as they're using a mobile canner. Good news is that tomorrow my pre-order of the other three will be  available(!) so I shall be venturing out to pick it up. I think they're a great little brewery so looking forward to giving it a try, glad to see they're joining the trendy can scene. It's the work quiz tomorrow at 5pm, so this will be the perfect treat!
+
+Aside from beer, today I went out for another run. I'm trying to run every other day, which without just complaining is kind of hard because it's not a daily routine. I could run every day but I've tried that in the past and I just end up hurting myself and then stopping for weeks on end. Today's run was a repeat of Tuesday's run, starting at home, running to castle street in Upnor then through the wooded footpath to Upnor hard, along the REs and all the way along Upchat Road, across Ratcliffe highway to Elm Ave and then down to Upnor. It's a 6km route which is uphill basically the whole way. The last 500m is a drop but it's too steep to run, so I have to walk (or really kill my ankles). I ran it in 36mins today which was pretty slow. My plan is to run it in reverse next time, which will mean the first 500m will be really shitty but the rest should be a breeze - we'll see.
+
+In addition to the running I've been contemplating doing some long distance walking. I think that this is my brain trying to find some adventure in lieu of any travel options, but I'm fine with it. My long term hope is to walk the [South West Coastal Path](https://www.southwestcoastpath.org.uk/), (a path so popular it has it's own website). This is the longest path in the UK at 630 miles and covers all of the Cornish coast and much of Somerset and Devon too. Sounds great, but that's the crown and I need to start smaller first. So the plan I'm weighing up is to walk some of the Saxon Shore Way in Kent. This has been something that has been in the back of my mind for a long time. When we walk Dexter in the morning,  we're walking part of the path and I think it'd be really cool to walk all of it. The path starts in Gravesend and I think a reasonable leg would be 30km which would take me to Strood station - kind of convenient. Debating this for Saturday/Sunday but we'll see...
+
+Oh, I discovered a new YouTube channel. Man, I gotta stop with YouTube. It's called [SV Delos](https://www.youtube.com/user/briantrautman), it's a Swedish girl and American guy who live aboard a 51m cruising yacht who sail around the world. Literally living the dream. There are tons and tons of videos on their channel and I have no doubt that I will end up binging them over the next few weeks. I watched two last night and they were pretty good, not quite of the production quality as Beau Miles but certainly watchable content.
+
+And that's probably enough rambling for today. I'm going to find some dinner and drink more of this lovely beer. 
