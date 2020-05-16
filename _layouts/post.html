@@ -6,24 +6,25 @@ layout: default
   {{ page.title }}
 </h1>
 
+<span class="post-date"><i class="fa fa-user" aria-hidden="true"></i> {{ site.author }}
+{% if page.location %}
+&nbsp;
+  <i class="fa fa-location-arrow" aria-hidden="true"></i> {{ page.location }}
+{% endif %}
+</span>
+
 <span class="post-date"><i class="fa fa-edit" aria-hidden="true"></i>
 {% assign d = page.date | date: "%-d"  %}
 {{ d }}
 {{ page.date | date: "%B" }}
 {{ page.date | date: "%Y" }}
-&nbsp;
 {% if page.history %}
+&nbsp;
   <i class="fa fa-calendar" aria-hidden="true"></i>
   {% assign d = page.history | date: "%-d"  %}
   {{ d }}
   {{ page.history | date: "%B" }}
   {{ page.history | date: "%Y" }}
-{% endif %}
-&nbsp;
-<i class="fa fa-user" aria-hidden="true"></i> {{ site.author }}
-&nbsp;
-{% if page.location %}
-  <i class="fa fa-location-arrow" aria-hidden="true"></i> {{ page.location }}
 {% endif %}
 </span>
 

@@ -5,6 +5,8 @@ date:   2020-03-28
 categories: blog
 tags: serbia belgrade sofia bulgaria traintoturkey owen trains rail travel inter-rail
 image: /assets/img/traintoturkey-leg7-22.jpg
+location: Belgrade, Serbia
+history: 2019-07-10
 ---
 
 It's fair to say that this is the part of the journey we were most worried about. The daily train between Serbia and Bulgaria is the one which we have invested the most research and nervous phone-checking during our trip. We even had the staff in the hotel double-check that the train is actually a real train and contacted people online who had been on it before.
