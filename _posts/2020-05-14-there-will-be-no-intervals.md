@@ -3,7 +3,7 @@ title:  "There will be no intervals"
 date:   2020-05-14
 layout: post
 categories: blog
-tags: ramblings verdant youtube
+tags: ramblings verdant youtube ironpier youtube running
 hidden: true
 ---
 
@@ -17,4 +17,4 @@ In addition to the running I've been contemplating doing some long distance walk
 
 Oh, I discovered a new YouTube channel. Man, I gotta stop with YouTube. It's called [SV Delos](https://www.youtube.com/user/briantrautman), it's a Swedish girl and American guy who live aboard a 51m cruising yacht who sail around the world. Literally living the dream. There are tons and tons of videos on their channel and I have no doubt that I will end up binging them over the next few weeks. I watched two last night and they were pretty good, not quite of the production quality as Beau Miles but certainly watchable content.
 
-And that's probably enough rambling for today. I'm going to find some dinner and drink more of this lovely beer. 
+And that's probably enough rambling for today. I'm going to find some dinner and drink more of this lovely beer.

@@ -5,6 +5,8 @@ layout: post
 categories: blog
 tags: coronavirus home 2020 england
 image: /assets/img/coronavirus-2-6.jpg
+location: "Upnor, Kent, UK"
+history: 2020-05-10
 ---
 
 It's been 50 days since I first posted about Coronavirus and it's fair to say that in that time, the world has changed. 50 days ago there were 289 deaths in the UK and yesterday's daily government briefing announced the total is now 31,589 - which puts our little island nation second in numbers only to the USA. Italy was at the centre of the crisis and is now barely even mentioned in the news. There have been plenty of significant events in those 50 days, an emergency hospital was built inside the Excel centre, Boris Johnson was diagnosed with the virus spending time in intensive care and the Queen made a historic and emotional televised speech to the nation.

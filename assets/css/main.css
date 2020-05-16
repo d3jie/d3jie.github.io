@@ -156,10 +156,24 @@ hr {
 .post-date {
   display: block;
   margin-top:3px;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
   color: #9a9a9a;
   font-family: 'Quattrocento Sans', sans-serif;
   font-size:0.8rem;
+}
+
+.post-history {
+  display: block;
+  margin-top:3px;
+  margin-bottom: 0rem;
+  color: #f39c12;
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-size:0.8rem;
+}
+
+.post-history .tooltiptext {
+  top: -5px;
+  left: 105%;
 }
 
 .post-copyright {
@@ -169,6 +183,8 @@ hr {
   font-size:0.8rem;
   margin-top: 10px;
 }
+
+
 
 .post-hit-counter {
   display: block;
