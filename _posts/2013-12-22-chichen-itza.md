@@ -3,7 +3,7 @@ title: "Chichen Itza, Mexico"
 date: "2013-12-22"
 layout: post
 categories: blog
-tags: mexico selfie travel victoria
+tags: mexico selfie travel victoria
 image: /assets/img/import/73b8f-the_first_wonder.jpg
 redirect_from:
   - /blog/53

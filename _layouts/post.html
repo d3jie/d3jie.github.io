@@ -28,6 +28,11 @@ layout: default
 {% endif %}
 </span>
 
+{% if page.image %}
+  <img src="{{ site.github.url }}/{{ page.image }}">
+{% endif %}
+
+{{ content }}
 
 <div>
 <span class="tags"><i class="fa fa-tags" aria-hidden="true"></i>
@@ -37,14 +42,6 @@ layout: default
   {% endfor %}
 </span>
 </div>
-
-{% if page.image %}
-  <img src="{{ site.github.url }}/{{ page.image }}">
-{% endif %}
-
-{{ content }}
-
-
 
 {% include social-sharing.html %}
 
