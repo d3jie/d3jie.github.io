@@ -110,7 +110,7 @@ hr {
 }
 
 .masthead-title a {
-  font-size: 2.5rem;
+  font-size: 2.4rem;
   text-decoration: none;
   color: #787878;
   font-family: "Montserrat", sans-serif;
@@ -169,11 +169,6 @@ hr {
   color: #f39c12;
   font-family: 'Quattrocento Sans', sans-serif;
   font-size:0.8rem;
-}
-
-.post-history .tooltiptext {
-  top: -5px;
-  left: 105%;
 }
 
 .post-copyright {
