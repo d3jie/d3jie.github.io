@@ -22,6 +22,7 @@ The train to Sofia departs from a different station to the one which we arrived,
 Now at the right station, we paid the taxi driver in what remained of our Serbian Dinars and made our way to the station building. We were at least 30 minutes early, keen to make sure we had time to take some pictures too. Topčider is a confusing station, it doesn't have any departure boards, it doesn't really even have any platforms and it didn't have many other passengers either. A few locomotives were standing in what is more of a railway yard than a station but none of them looked much like what I had seen online. A very Serbian man seemed to ask where we were going and understanding Sofia signalled us to wait here. So wait we did, in the rain.
 
 ![][photo-8]
+
 ![][photo-9]
 
 Several other trains passed through, one magnificent blue train with steamed up windows arrived and dropped off some passengers before making its way on. The man at the station reiterated his sign language for us to remain standing where we were. Another train shunted some empty wagons around, they appeared to be vehicle carriers, a little like those used in the channel-tunnel, just much, much less fancy. Finally, our train arrived and the man at the station pointed for us to go and get on it. I'm still unsure if the man worked for the railway or whether he was just a man at the station. To our relief, the train had some paper stickers which confirmed it was 'The Balkan' with a destination of Sofia, Bulgaria.
@@ -55,6 +56,7 @@ The day went quite quickly and before we knew it we were approaching the outskir
 As we kept moving we passed through the stunning Sićevo Gorge where the train followed a narrow track along the Nišava river, it was absolutely brilliant! I stood by the filthy rear window to try and get a few pictures, almost all of them are completely unusable but the view was fantastic nonetheless.
 
 ![][photo-14]
+
 ![][photo-12]
 
 As we were passing through the conductor reappeared and woke the two French girls who it turns out had no ticket and no money. I can't quite remember what happened but I think they sort of handed over whatever they had left - a very strange situation which left the conductor quite cross.
@@ -64,6 +66,7 @@ Passing through the gorge we were on the final leg through to Sofia. About halfw
 ![][photo-5]
 
 ![][photo-15]
+
 ![][photo-16]
 
 The train continued into Bulgaria where we promptly stopped once again for another passport check. Rinse and repeat of the last encounter except for this time we weren't blessed with any ink as we had returned to an EU member state (although not in the Schengen area). At this point I think the driver swapped with the train on the other line, presumably he was from the Bulgarian State Railways rather than the Serbian counterpart.
