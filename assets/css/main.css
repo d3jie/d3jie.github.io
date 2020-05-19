@@ -182,7 +182,13 @@ hr {
   margin-top: 10px;
 }
 
-
+.post-powered-by {
+  display: block;
+  color: #9a9a9a;
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-size:0.8rem;
+  margin-top: 0px;
+}
 
 .post-hit-counter {
   display: block;
@@ -251,7 +257,7 @@ hr {
 
 .footer a {
   color: #999;
-  padding: 10px;
+  padding: 2px;
   text-decoration: none;
 }
 
