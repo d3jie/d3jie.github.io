@@ -6,7 +6,7 @@ categories: blog
 tags: ramblings rya sailing dayskipper
 hidden: true
 location: "Upnor, Kent, UK"
-image: /assets/img/holm-point1.jpg
+image: /assets/img/holm-point-1.jpg
 ---
 
 It's hot. It's super hot, the Audi said it was 30 Celsius in the car at lunch time and I believe it. The weather is absolutely gorgeous and I almost envy those who are on furlough and able to make the most of being away from work. Aside from working I made a few small tweaks to the CSS on the blog, I added a footer for Github/Jekyll and adjusted the borders of those items. I think it looks a little better. Next task is to remove the social icons from the top for mobile browsers.
