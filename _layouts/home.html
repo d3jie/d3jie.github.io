@@ -11,7 +11,7 @@ title: Home
   <p>
     <span class="post-date"><i class="fa fa-edit" aria-hidden="true"></i> {{ post.date | date_to_string }}
     {% if post.location %}
-     - <i class="fa fa-location-arrow" aria-hidden="true"></i> {{ post.location }}
+    &nbsp; <i class="fa fa-location-arrow" aria-hidden="true"></i> {{ post.location }}
     {% endif %}</span>
   {% if post.image %}
   <div class="thumbnail-container">
@@ -26,15 +26,17 @@ title: Home
 
 <!-- Pagination links -->
 <div class="pagination">
+  {% if paginator.previous_page %}
+    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ site.data.settings.pagination.next_page }}</a>
+  {% else %}
+    <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
+  {% endif %}
+
   {% if paginator.next_page %}
     <a class="pagination-button pagination-active next" href="{{ site.github.url }}{{ paginator.next_page_path }}">{{ site.data.settings.pagination.previous_page }}</a>
   {% else %}
     <span class="pagination-button">{{ site.data.settings.pagination.previous_page }}</span>
   {% endif %}
 
-  {% if paginator.previous_page %}
-    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ site.data.settings.pagination.next_page }}</a>
-  {% else %}
-    <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
-  {% endif %}
+
 </div>
