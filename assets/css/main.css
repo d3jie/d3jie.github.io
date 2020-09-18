@@ -82,7 +82,7 @@ hr {
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 615px;
+  width: 720px;
 }
 
 /*48em*/
@@ -146,6 +146,7 @@ hr {
   margin-bottom: 5rem;
   padding: 0px;
   list-style: none;
+  text-align: justify;
 }
 
 .post-date {
@@ -155,6 +156,36 @@ hr {
   color: #9a9a9a;
   font-family: 'Quattrocento Sans', sans-serif;
   font-size:0.8rem;
+}
+
+.post-history {
+  display: block;
+  margin-top:3px;
+  margin-bottom: 0rem;
+  color: #f39c12;
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-size:0.8rem;
+}
+
+.post-copyright {
+  display: block;
+  color: #9a9a9a;
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-size:0.8rem;
+  margin-top: 10px;
+}
+
+.post-powered-by {
+  display: block;
+  color: #9a9a9a;
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-size:0.8rem;
+  margin-top: 0px;
+}
+
+.post-hit-counter {
+  display: block;
+  margin-top: 8px;
 }
 
 @media (max-width: 30rem) {
@@ -504,4 +535,14 @@ th, td {
 
 .fa-rss-square:hover {
 	color: #ff6600;
+}
+
+.tags {
+  display: block;
+  margin-top:3px;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-size:0.8rem;
+  text-decoration: none;
 }
