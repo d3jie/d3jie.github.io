@@ -57,7 +57,8 @@ a {
 }
 
 a:hover {
-  color: black;
+/*   color: black; */
+  color: #0086B3;
   text-decoration: underline;
   border-bottom: none;
 }
