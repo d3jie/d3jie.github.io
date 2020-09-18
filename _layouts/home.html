@@ -26,10 +26,9 @@ title: Home
     <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
   </h1>
   <p>
-    <span class="post-date"><i class="fa fa-edit" aria-hidden="true"></i> {{ post.date | date_to_string }}
-    {% if post.location %}
-    &nbsp; <i class="fa fa-location-arrow" aria-hidden="true"></i> {{ post.location }}
-    {% endif %}</span>
+    <span class="post-date"><i class="fa fa-calendar-o" aria-hidden="true"></i> {{ post.date | date_to_string }} - 
+      <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}
+    </span>
   {% if post.image %}
   <div class="thumbnail-container">
     <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image }}"></a>
