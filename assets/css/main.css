@@ -19,8 +19,9 @@
 
 body {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
-  background-color: #e7e7e2;
-/*   font-family: "Ubuntu", sans-serif; */
+  background-color: #0086B3;
+  /*   background-color: #e7e7e2; */
+  /*   font-family: "Ubuntu", sans-serif; */
   font-size: 18px;
   color: #515151;
   line-height: 1.75rem;
@@ -45,9 +46,9 @@ h1 a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Quattrocento Sans", sans-serif;
-/*   font-family: "Manrope",sans-serif; */
-/*   font-family: "Roboto Slab", serif; */
+  font-family: "Quattrocento Sans", sans-serif;
+  /*   font-family: "Manrope",sans-serif; */
+  /*   font-family: "Roboto Slab", serif; */
   color: #333;
 }
 
