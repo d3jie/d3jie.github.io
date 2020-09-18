@@ -19,9 +19,10 @@
 
 body {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
-  background-color: #edf5e1;
-  /*   background-color: #e7e7e2; */
+  /*   background-color: #FDFDFD; */
+  /*   background-color: #edf5e1; */
   /*   font-family: "Ubuntu", sans-serif; */
+  background-color: #e7e7e2;
   font-size: 18px;
   color: #515151;
   line-height: 1.75rem;
@@ -113,7 +114,7 @@ hr {
 }
 
 .masthead a:hover {
-/*   color:black; */
+  color:black;
 }
 
 .masthead-title a {
