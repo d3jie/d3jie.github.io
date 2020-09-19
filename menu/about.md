@@ -1,18 +1,22 @@
 ---
-layout: page
-title: Welcome to Lagrange!
+layout: post
+title: "About the Author"
+author: "Aanuoluwa Otitoola"
+categories: journal
+tags: [documentation,sample]
+image: developer.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+My name Aanuoluwa Otitoola.
 
-### Getting Started
+I’m a geology major turned software developer.
+Ever since I first learned how to program while taking an introductory computer science course, I have pursued programming as a passion, and as a career.
+I started my career a cognitive software engineer building enterprise applications and data processing systems using Java and Python.
 
-[Getting Started]({{ site.github.url }}{% post_url 2020-09-18-about-the-author %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+I have worked on different software deployed to a wide range of customers in the banking and telecommunications industry.
 
-### Example Content
+More recently, I decided to pursue an advanced degree in Data Science and Artificial Intelligence at the University of Liverpool, UK.
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2020-09-18-about-the-author %})
+Besides programming and doing AI stuff, I enjoy playing Chess and love reading.
 
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+[Get in touch](mailto:aanuoluwa.otitoola@gmail.com) if you want to know more.
