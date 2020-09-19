@@ -16,13 +16,19 @@
 /*
   Base
 */
+@font-face {
+    font-family: "Roboto Slab";
+    src: url("/assets/fonts/RobotoSlab-Regular.ttf");
+    /*src: url("/assets/fonts/RobotoSlab-Light.ttf");*/
+}
 
 body {
-  /*   font-family: "PT Serif", Georgia, "Times New Roman", serif; */
-  font-family: "Merriweather", serif;
+    font-family: "Bitter", "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    /* font-family: "PT Serif", Georgia, "Times New Roman", serif;*/
+  /*font-family: "Merriweather", serif;*/
   /*   background-color: #FDFDFD; */
   /*   background-color: #edf5e1; */
-  /*   font-family: "Ubuntu", sans-serif; */
+  /*   font-family: "Ubuntu", sans-serif;*/
   /*   background-color: #e7e7e2; */
   background-color: #FDFDFD;
   font-size: 18px;
@@ -49,12 +55,12 @@ h1 a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  /*   font-family: "Quattrocento Sans", sans-serif; */
-  /*   font-family: "Manrope",sans-serif; */
-  /*   font-family: "Roboto Slab", serif; */
-  /*   color: #333; */
-  font-family: "Merriweather";
-  color: #2782cd;
+    /*font-family: "Montserrat", sans-serif;*/
+  font-family: "Quattrocento Sans", sans-serif;
+     /*font-family: "Manrope",sans-serif; */
+     color: #333;
+  /*font-family: "Merriweather";*/
+  /*color: #2782cd;*/
   /*   color: #0086B3; */
 }
 
@@ -65,8 +71,8 @@ a {
 
 a:hover {
   color: black;
-  /*   color: #0086B3; */
-  text-decoration: underline;
+  /*   color: #0086B3;*/
+  /*text-decoration: underline;*/
   border-bottom: none;
 }
 
@@ -123,11 +129,19 @@ hr {
 }
 
 .masthead-title a {
-  font-size: 3rem;
+
+    /*font-family: "Bitter", "Palatino Linotype", "Book Antiqua", Palatino, serif;*/
+  font-size: 1.7rem;
+  font-weight: 100;
   text-decoration: none;
+  color: #a6071b;
   /*   color: #505050;  */
   /*   color: #0086B3;  */
-  color: #2782cd;
+  /*   color: #2782cd;  */
+}
+
+.masthead-name {
+    font-family: "Roboto Slab", Palatino, serif;
 }
 
 .masthead-subtitle {
@@ -155,11 +169,11 @@ hr {
 */
 
 .post-container {
-  margin-bottom: 2rem;
+  margin-bottom: 4rem;
 }
 
 .posts {
-  margin-bottom: 5rem;
+  margin-bottom: 2rem;
   padding: 0px;
   list-style: none;
   text-align: justify;
@@ -299,7 +313,7 @@ hr {
 
 .social-icons a {
   color: #999;
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 
 @media (max-width: 30em) {

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Aanuoluwa Otitoola"
 categories: journal
 tags: [documentation,sample]
 image: cutting.jpg
