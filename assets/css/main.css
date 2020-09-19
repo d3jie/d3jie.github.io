@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Quattrocento Sans", sans-serif;
   /*   font-family: "Manrope",sans-serif; */
   /*   font-family: "Roboto Slab", serif; */
-  color: #333;
+  /*   color: #333; */
 }
 
 a {
@@ -61,8 +61,8 @@ a {
 }
 
 a:hover {
-  /*   color: black; */
-  color: #0086B3;
+  color: black;
+  /*   color: #0086B3; */
   text-decoration: underline;
   border-bottom: none;
 }
