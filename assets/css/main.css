@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
   /*   font-family: "Manrope",sans-serif; */
   /*   font-family: "Roboto Slab", serif; */
   /*   color: #333; */
-  font-family: "Merriweather", sans-serif;
+  font-family: "Merriweather";
   color: #2782cd;
   /*   color: #0086B3; */
 }
@@ -115,7 +115,7 @@ hr {
   padding-bottom: 0.5rem;
   margin-bottom: 4rem;
   /*   font-family: "Roboto Slab", serif; */
-  font-family: "Quattrocento Sans", sans-serif;
+  /*   font-family: "Quattrocento Sans", sans-serif; */
 }
 
 .masthead a:hover {
@@ -123,10 +123,11 @@ hr {
 }
 
 .masthead-title a {
-  font-size: 2rem;
+  font-size: 3rem;
   text-decoration: none;
-  /*   color: #505050; */
-  color: #0086B3;	
+  /*   color: #505050;  */
+  /*   color: #0086B3;  */
+  color: #2782cd;
 }
 
 .masthead-subtitle {
