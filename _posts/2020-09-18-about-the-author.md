@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: developer.jpg
 ---
 
-My name Aanuoluwa Otitoola.
+My name is Aanuoluwa Otitoola.
 
 I’m a geology major turned software developer.
 Ever since I first learned how to program while taking an introductory computer science course, I have pursued programming as a passion, and as a career.
