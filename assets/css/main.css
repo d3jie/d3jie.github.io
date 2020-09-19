@@ -297,6 +297,7 @@ hr {
 .menu {
   padding-top: 0.5rem;
   display: block;
+  /*text-align:center;*/
 }
 
 .menu-content {
@@ -311,6 +312,7 @@ hr {
 
 .social-icons {
   float: right;
+  text-align: right;
 }
 
 .social-icons a {
@@ -320,7 +322,7 @@ hr {
 
 @media (max-width: 30em) {
   .social-icons {
-    float: left;
+    float: right;
     padding-top: 0px;
   }
   .menu-content {

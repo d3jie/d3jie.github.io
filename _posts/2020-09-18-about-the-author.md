@@ -7,15 +7,13 @@ tags: [documentation,sample]
 image: developer.jpg
 ---
 
-My name is Aanuoluwa Otitoola.
-
 I’m a geology major turned software developer.
 Ever since I first learned how to program while taking an introductory computer science course, I have pursued programming as a passion, and as a career.
 I started my career a cognitive software engineer building enterprise applications and data processing systems using Java and Python.
 
 I have worked on different software deployed to a wide range of customers in the banking and telecommunications industry.
 
-More recently, I decided to pursue an advanced degree in Data Science and Artificial Intelligence at the University of Liverpool, UK.
+More recently, I decided to pursue an advanced degree in Data Science and Artificial Intelligence at the [University of Liverpool, UK](https://https://www.liverpool.ac.uk).
 
 Besides programming and doing AI stuff, I enjoy playing Chess and love reading.
 
